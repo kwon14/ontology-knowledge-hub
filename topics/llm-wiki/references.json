@@ -1,0 +1,76 @@
+{
+  "error": "",
+  "query": "llm wiki",
+  "sort": "stars",
+  "stars_collected_at": "2026-05-09",
+  "top_repositories": [
+    {
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "license_spdx_id": "NOASSERTION",
+      "name": "Tencent/WeKnora",
+      "readme_excerpt": "<p align=\"center\">\n  <picture>\n    <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/>\n  </picture>\n</p>\n\n<p align=\"center\">\n  <picture>\n    <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\">\n      <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent%2FWeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n    </a>\n  </picture>\n</p>\n<p align=\"center\">\n    <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\">\n        <img alt=\"Official Website\" src=\"https://img.shields.io/badge/Official Website-WeKnora-4e6b99\">\n    </a>\n    <a href=\"https://chatbot.weixin.qq.com\" target=\"_blank\">\n        <img alt=\"WeChat Dialog Open Platform\" src=\"https://img.shields.io/badge/WeChat Dialog Open Platform-5ac725\">\n    </a>\n    <a href=\"https://chromewebstore.google.com/detail/jpemjbopikggjlmikmclgbmkhhopjdgd\" target=\"_blank\">\n        <img alt=\"Chrome Extension\" src=\"https://img.shields.io/badge/Chrome Extension-WeKnora-4285F4\">\n    </a>\n    <a href=\"https://clawhub.ai/lyingbug/weknora\" target=\"_blank\">\n        <img alt=\"ClawHub Skill\" src=\"https://img.shields.io/badge/ClawHub Skill-WeKnora-ff6b35\">\n    </a>\n    <a href=\"https://github.com/Tencent/WeKnora/blob/main/LICENSE\">\n        <img src=\"https://img.shields.io/badge/License-MIT-ffffff?labelColor=d4eaf7&color=2e6cc4\" alt=\"License\">\n    </a>\n    <a href=\"./CHA",
+      "reason_to_include": "Selected by GitHub repository search because it matched the topic and had a high star count among public repositories.",
+      "stars": 14503,
+      "stars_collected_at": "2026-05-09",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm"
+      ],
+      "updated_at": "2026-05-09",
+      "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+      "description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "license_spdx_id": "MIT",
+      "name": "Lum1104/Understand-Anything",
+      "readme_excerpt": "<h1 align=\"center\">Understand Anything</h1>\n\n<p align=\"center\">\n  <strong>Turn any codebase, knowledge base, or docs into an interactive knowledge graph you can explore, search, and ask questions about.</strong>\n  <br />\n  <em>Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> | <a href=\"READMEs/README.zh-CN.md\">简体中文</a> | <a href=\"READMEs/README.zh-TW.md\">繁體中文</a> | <a href=\"READMEs/README.ja-JP.md\">日本語</a> | <a href=\"READMEs/README.ko-KR.md\">한국어</a> | <a href=\"READMEs/README.es-ES.md\">Español</a> | <a href=\"READMEs/README.tr-TR.md\">Türkçe</a>\n</p>\n\n<p align=\"center\">\n <a href=\"https://www.star-history.com/lum1104/understand-anything\">\n  <picture>\n   <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=Lum1104/Understand-Anything&theme=dark\" />\n   <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=Lum1104/Understand-Anything\" />\n   <img alt=\"Star History Rank\" src=\"https://api.star-history.com/badge?repo=Lum1104/Understand-Anything\" />\n  </picture>\n </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#-quick-start\"><img src=\"https://img.shields.io/badge/Quick_Start-blue\" alt=\"Quick Start\" /></a>\n  <a href=\"https://github.com/Lum1104/Understand-Anything/blob/main/LICENSE\"><img src=\"https://img.s",
+      "reason_to_include": "Selected by GitHub repository search because it matched the topic and had a high star count among public repositories.",
+      "stars": 13600,
+      "stars_collected_at": "2026-05-09",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-skills",
+        "gemini-cli-skills",
+        "karpathy-llm-wiki",
+        "knowledge-base",
+        "knowledge-graph"
+      ],
+      "updated_at": "2026-05-09",
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "description": "PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。",
+      "license_spdx_id": "AGPL-3.0",
+      "name": "chaitin/PandaWiki",
+      "readme_excerpt": "<p align=\"center\">\n  <img src=\"/images/banner.png\" width=\"400\" />\n</p>\n\n<p align=\"center\">\n  <a target=\"_blank\" href=\"https://ly.safepoint.cloud/Br48PoX\">📖 官方网站</a> &nbsp; | &nbsp;\n  <a target=\"_blank\" href=\"/images/wechat.png\">🙋‍♂️ 微信交流群</a>\n</p>\n\n## 👋 项目介绍\n\nPandaWiki 是一款 AI 大模型驱动的**开源知识库搭建系统**，帮助你快速构建智能化的 **产品文档、技术文档、FAQ、博客系统**，借助大模型的力量为你提供 **AI 创作、AI 问答、AI 搜索** 等能力。\n\n<p align=\"center\">\n  <img src=\"/images/setup.png\" width=\"800\" />\n</p>\n\n## ⚡️ 界面展示\n\n| PandaWiki 控制台                                 | Wiki 网站前台                                    |\n| ------------------------------------------------ | ------------------------------------------------ |\n| <img src=\"/images/screenshot-1.png\" width=370 /> | <img src=\"/images/screenshot-2.png\" width=370 /> |\n| <img src=\"/images/screenshot-3.png\" width=370 /> | <img src=\"/images/screenshot-4.png\" width=370 /> |\n\n## 🔥 功能与特色\n\n- AI 驱动智能化：AI 辅助创作、AI 辅助问答、AI 辅助搜索。\n- 强大的富文本编辑能力：兼容 Markdown 和 HTML，支持导出为 word、pdf、markdown 等多种格式。\n- 轻松与第三方应用进行集成：支持做成网页挂件挂在其他网站上，支持做成钉�",
+      "reason_to_include": "Selected by GitHub repository search because it matched the topic and had a high star count among public repositories.",
+      "stars": 9537,
+      "stars_collected_at": "2026-05-09",
+      "topics": [
+        "ai",
+        "docs",
+        "document",
+        "documentation",
+        "kb",
+        "knownledge",
+        "llm",
+        "self-hosted",
+        "wiki"
+      ],
+      "updated_at": "2026-05-09",
+      "url": "https://github.com/chaitin/PandaWiki"
+    }
+  ]
+}

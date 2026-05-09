@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {
+      "asset_id": "asset_20260509_142627_topic_diagram",
+      "caption": "llm wiki concept and knowledge-system diagram.",
+      "license": "self-generated",
+      "local_path": "assets/topic-diagram.mmd",
+      "source_url": "",
+      "type": "generated_mermaid",
+      "usage_status": "allowed_self_generated"
+    }
+  ],
+  "slug": "llm-wiki",
+  "topic": "llm wiki"
+}

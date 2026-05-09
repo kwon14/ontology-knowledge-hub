@@ -1,0 +1,18 @@
+flowchart TD
+    T["llm wiki"]
+    S["Raw sources and saved references"]
+    W["LLM-readable wiki pages"]
+    C["Concept and entity links"]
+    R["Retrieval for user questions"]
+    A["Agent answers and published articles"]
+    V["Human review and curation"]
+    S --> W
+    W --> C
+    C --> R
+    W --> R
+    R --> A
+    V --> W
+    V --> A
+    T --> S
+    T --> W
+    T --> A
