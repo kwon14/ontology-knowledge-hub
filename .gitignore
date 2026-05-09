@@ -1,0 +1,15 @@
+﻿# Local planning notes
+brainstorming/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Environment/secrets
+.env
+.env.*
+
+# Generated caches
+__pycache__/
+.pytest_cache/
