@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {
+      "asset_id": "asset_20260509_130958_workflow",
+      "caption": "llm wiki review workflow diagram.",
+      "license": "self-generated",
+      "local_path": "assets/workflow.mmd",
+      "source_url": "",
+      "type": "generated_mermaid",
+      "usage_status": "allowed_self_generated"
+    }
+  ],
+  "slug": "llm-wiki",
+  "topic": "llm wiki"
+}

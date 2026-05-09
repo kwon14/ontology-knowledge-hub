@@ -1,0 +1,17 @@
+flowchart TD
+    T["Topic: llm wiki"]
+    G["Internal Knowledge Graph / Wiki"]
+    E["External GitHub Top 3"]
+    D["Review Draft"]
+    A["Reviewed Article"]
+    T --> G
+    T --> E
+    R1["Tencent/WeKnora"]
+    E --> R1
+    R2["Lum1104/Understand-Anything"]
+    E --> R2
+    R3["chaitin/PandaWiki"]
+    E --> R3
+    G --> D
+    E --> D
+    D --> A
